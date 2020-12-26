@@ -4,10 +4,12 @@
 
 ## **Articles**
 - ["Go Dependency Injection with Wire"](https://blog.drewolson.org/go-dependency-injection-with-wire) - *Drew Olson*
+- ["GO TDD"](https://quii.gitbook.io/learn-go-with-tests/) - Chris James
 
 
 ## **Tools**
 - [Wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go by Google.
+- [Testify](https://github.com/stretchr/testify) - Golang TDD toolkit
 
 
 ## Contribute
